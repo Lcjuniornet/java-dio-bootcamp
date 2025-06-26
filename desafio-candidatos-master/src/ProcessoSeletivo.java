@@ -30,7 +30,7 @@ public class ProcessoSeletivo {
             candidatoAtual ++;
         }
     }
-
+    
     public static double getRandomDouble() {
         // Math.random() gera um número entre 0.0 e 1.0
         // Multiplicando por 400.0 gera um número entre 0.0 e 400.0, depois adiciona 1800.0
